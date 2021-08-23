@@ -1,2 +1,2 @@
 # GitTutorialMatt
-Git and CI Club Tutorials Project for Matt Ferguson
+Git and CI Club Tutorials REPO (Practice for GIT situations with a shared GIT repo)
