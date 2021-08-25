@@ -10,8 +10,5 @@ Neptune's Moon
 be
 Bee's Moon
 Belly Moon
-<<<<<<< HEAD
 ----- Moon
-=======
 Stacy's Moon
->>>>>>> 77c60365b5a13d9fed267ec4a35ae91b4f4432b8
