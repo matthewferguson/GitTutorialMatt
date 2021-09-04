@@ -16,6 +16,7 @@
 		858AE37F26DDCB8600151564 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 858AE37D26DDCB8600151564 /* LaunchScreen.storyboard */; };
 		858AE38A26DDCB8600151564 /* GitClubTableMattTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 858AE38926DDCB8600151564 /* GitClubTableMattTests.swift */; };
 		858AE39526DDCB8600151564 /* GitClubTableMattUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 858AE39426DDCB8600151564 /* GitClubTableMattUITests.swift */; };
+		CE5265FB26E310F400223BE1 /* README.md in Resources */ = {isa = PBXBuildFile; fileRef = CE5265FA26E310F400223BE1 /* README.md */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -51,6 +52,7 @@
 		858AE39026DDCB8600151564 /* GitClubTableMattUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = GitClubTableMattUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		858AE39426DDCB8600151564 /* GitClubTableMattUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GitClubTableMattUITests.swift; sourceTree = "<group>"; };
 		858AE39626DDCB8600151564 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		CE5265FA26E310F400223BE1 /* README.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; name = README.md; path = ../README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
