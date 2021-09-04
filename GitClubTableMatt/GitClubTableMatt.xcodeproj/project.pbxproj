@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		850C4CB226E31C5800A4A2D1 /* README.md in Resources */ = {isa = PBXBuildFile; fileRef = 850C4CB126E31C5800A4A2D1 /* README.md */; };
 		858AE37326DDCB8400151564 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 858AE37226DDCB8400151564 /* AppDelegate.swift */; };
 		858AE37526DDCB8400151564 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 858AE37426DDCB8400151564 /* SceneDelegate.swift */; };
 		858AE37726DDCB8400151564 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 858AE37626DDCB8400151564 /* ViewController.swift */; };
@@ -36,6 +37,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		850C4CB126E31C5800A4A2D1 /* README.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; name = README.md; path = ../README.md; sourceTree = "<group>"; };
 		858AE36F26DDCB8400151564 /* GitClubTableMatt.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = GitClubTableMatt.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		858AE37226DDCB8400151564 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		858AE37426DDCB8400151564 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -81,7 +83,7 @@
 		858AE36626DDCB8400151564 = {
 			isa = PBXGroup;
 			children = (
-				CE5265FA26E310F400223BE1 /* README.md */,
+				850C4CB126E31C5800A4A2D1 /* README.md */,
 				858AE37126DDCB8400151564 /* GitClubTableMatt */,
 				858AE38826DDCB8600151564 /* GitClubTableMattTests */,
 				858AE39326DDCB8600151564 /* GitClubTableMattUITests */,
@@ -236,7 +238,7 @@
 			files = (
 				858AE37F26DDCB8600151564 /* LaunchScreen.storyboard in Resources */,
 				858AE37C26DDCB8600151564 /* Assets.xcassets in Resources */,
-				CE5265FB26E310F400223BE1 /* README.md in Resources */,
+				850C4CB226E31C5800A4A2D1 /* README.md in Resources */,
 				858AE37A26DDCB8400151564 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
